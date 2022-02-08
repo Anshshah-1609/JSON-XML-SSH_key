@@ -1,0 +1,136 @@
+{
+  "Students": [
+    {
+      "sid": 1,
+      "name": "Ansh",
+      "age": 15,
+      "address": {
+        "city": "Surendranagar",
+        "state": "Gujarat"
+      },
+      "favsub": ["Maths", "Science", "Computer"],
+      "goodAt": [{ "sport": "Cricket" }, { "other": "Dancing" }],
+      "isPass": true
+    },
+    {
+      "sid": 2,
+      "name": "Hardik",
+      "age": 16,
+      "address": {
+        "city": "Rajkot",
+        "state": "Gujarat"
+      },
+      "favsub": ["Sankrit", "Maths"],
+      "goodAt": [{ "sport": "Kabbadi" }, { "other": "Singing" }],
+      "isPass": true
+    },
+    {
+      "sid": 3,
+      "name": "Namy",
+      "age": 15,
+      "address": {
+        "city": "Kutch",
+        "state": "Gujarat"
+      },
+      "favsub": ["Maths", "SS", "Science"],
+      "goodAt": [{ "sport": "Volly Ball" }, { "other": null }],
+      "isPass": true
+    },
+    {
+      "sid": 4,
+      "name": "Ramesh",
+      "age": 15,
+      "address": {
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+      },
+      "favsub": ["Hindi", "Maths"],
+      "goodAt": [{ "sport": "Cricket" }, { "other": "Drawing" }],
+      "isPass": false
+    },
+    {
+      "sid": 5,
+      "name": "Mukesh",
+      "age": 16,
+      "address": {
+        "city": "Jamnagar",
+        "state": "Gujarat"
+      },
+      "favsub": ["Science", "Computer", "SS"],
+      "goodAt": [{ "sports": "Basketball" }, { "other": "Dancing" }],
+      "isPass": true
+    },
+    {
+      "sid": 5,
+      "name": "Meena",
+      "age": 15,
+      "address": {
+        "city": "Surat",
+        "state": "Guajart"
+      },
+      "favsub": ["Gujarati", "Hindi", "Maths"],
+      "goodAt": [{ "sport": "Basket Ball" }, { "other": "Writing" }],
+      "isPass": true
+    },
+    {
+      "sid": 6,
+      "name": "Veenita",
+      "age": 16,
+      "address": {
+        "city": "Gandhinagar",
+        "state": "Gujarat"
+      },
+      "favsub": ["Hindi", "Maths", "Science"],
+      "goodAt": [{ "sport": "Volly Ball" }, { "other": null }],
+      "isPass": false
+    },
+    {
+      "sid": 7,
+      "name": "Deep",
+      "age": 15,
+      "address": {
+        "city": "Bhavnagar",
+        "state": "Gujarat"
+      },
+      "favsub": ["Maths", "Science"],
+      "goodAt": [{ "sport": "Football" }, { "other": "Singing" }],
+      "isPass": true
+    },
+    {
+      "sid": 8,
+      "name": "Kalp",
+      "age": 15,
+      "address": {
+        "city": "Surendranagar",
+        "state": "Gujart"
+      },
+      "favsub": ["Maths", "SS", "Computer"],
+      "goodAt": [{ "sport": "Cricket" }, { "other": null }],
+      "isPass": true
+    },
+    {
+      "sid": 9,
+      "name": "Vicky",
+      "age": 15,
+      "address": {
+        "city": "Vadodara",
+        "state": "Gujarat"
+      },
+      "favsub": ["Gujarati", "Science", "Hindi"],
+      "goodAt": [{ "sport": "Football" }, { "other": "Writing" }],
+      "isPass": true
+    },
+    {
+      "sid": 10,
+      "name": "Sonali",
+      "age": 16,
+      "address": {
+        "city": "Gandhinagar",
+        "state": "Guajarat"
+      },
+      "favsub": ["Science", "Computer", "Hindi"],
+      "goodAt": [{ "sport": "Basketball" }, { "other": "Dancing" }],
+      "isPass": false
+    }
+  ]
+}
